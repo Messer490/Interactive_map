@@ -18,4 +18,16 @@ This project is an interactive map that visualizes population statistics of Kaza
 1. Clone the repository:
    ```bash
    git clone https://github.com/Messer490/Interactive_map.git
+Open index.html in your browser to view the map.
+Explore the population data by interacting with the map.
+🗺️ Roadmap
+Planned improvements:
 
+Add more demographic filters (e.g., age, gender, etc.).
+Implement backend database for real-time data updates.
+Add export functionality for data reports.
+📧 Contact
+For any questions or suggestions, feel free to reach out:
+
+GitHub: Messer490
+Email: your.email@example.com
