@@ -1,0 +1,175 @@
+X,Y,fid,GID_2,GID_0,COUNTRY,GID_1,NAME_1,NL_NAME_1,NAME_2,VARNAME_2,NL_NAME_2,TYPE_2,ENGTYPE_2,CC_2,HASC_2
+79.0262051616396,45.6809884831679,1,KAZ.1.1_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Aksuskiy,NA,NA,Rayon,District,NA,KZ.AA.AK
+80.7172289752255,46.1851519503608,2,KAZ.1.2_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Alakolskiy,Alakol'skiy,NA,Rayon,District,NA,KZ.AA.AL
+76.9067698501495,43.278673424625,3,KAZ.1.3_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Almaty (Alma-Ata),NA,NA,Rayon,District,NA,NA
+75.1598295433231,45.5006184683888,4,KAZ.1.4_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Balkhashskiy,NA,NA,Rayon,District,NA,KZ.AA.BA
+78.1756886895422,43.493382245263,5,KAZ.1.5_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Enbekshikazakhskiy,NA,NA,Rayon,District,NA,KZ.AA.EN
+76.6527903170511,44.0715008138403,6,KAZ.1.6_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Iliyskiy,NA,NA,Rayon,District,NA,KZ.AA.IL
+76.6544765866712,43.2475324563567,7,KAZ.1.7_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Karasayskiy,Karasayskiy (Kaskelenskiy),NA,Rayon,District,NA,KZ.AA.KS
+77.2134793461623,45.9101111512357,8,KAZ.1.8_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Karatal`skiy,Karatalskiy,NA,Rayon,District,NA,KZ.AA.KT
+78.0597280822919,44.3588869460718,9,KAZ.1.9_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Kerbulakskiy,NA,NA,Rayon,District,NA,KZ.AA.KE
+77.7507361355638,44.7598387296018,10,KAZ.1.10_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Koksuskiy,NA,NA,Rayon,District,NA,KZ.AA.KO
+79.6514512945983,44.298765696251,11,KAZ.1.11_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Panfilovskiy,NA,NA,Rayon,District,NA,KZ.AA.PA
+79.5664587517713,42.7933797798813,12,KAZ.1.12_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Raiymbekskiy,Rayymbekskiy (Narynko'skiy),NA,Rayon,District,NA,KZ.AA.RA
+80.0374186948089,45.8152629813313,13,KAZ.1.13_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Sarkandskiy,NA,NA,Rayon,District,NA,KZ.AA.SA
+78.5611652126062,45.0080232794097,14,KAZ.1.14_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Taldyqorghan,Taldyqorghanskiy,NA,Maslikhat,Assembly,NA,KZ.AA.TQ
+77.3175667130186,43.7293828400019,15,KAZ.1.15_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Talgarskiy,NA,NA,Rayon,District,NA,KZ.AA.TG
+79.8920224708793,43.5581728462349,16,KAZ.1.16_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Uygurskiy,NA,NA,Rayon,District,NA,KZ.AA.UY
+75.7553202243667,43.8220755244996,17,KAZ.1.17_1,KAZ,Kazakhstan,KAZ.1_1,Almaty,NA,Zhambylskiy,NA,NA,Rayon,District,NA,KZ.AA.ZH
+71.8922476605852,52.1989042669027,18,KAZ.2.1_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Akkol`skiy,Akkol'skiy (Alekseevskiy),NA,Rayon,District,NA,KZ.AM.AK
+72.5447686314624,50.8975671007752,19,KAZ.2.2_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Arshalynskiy,Arshalynskiy (Vishnevskiy),NA,Rayon,District,NA,KZ.AM.AR
+69.7433865590384,51.4969045760976,20,KAZ.2.3_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Astrakhansiy,Astrakhanskiy,NA,Rayon,District,NA,KZ.AM.AS
+68.653158881514,51.3639383937687,21,KAZ.2.4_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Atbasarskiy,NA,NA,Rayon,District,NA,KZ.AM.AT
+70.1786321912401,52.2099141794631,22,KAZ.2.5_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Bulandynskiy,NA,NA,Rayon,District,NA,KZ.AM.BU
+69.6638363824345,50.9594227041404,23,KAZ.2.6_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Egindykol`skiy,Eginykolskiy (Krasnoznamenskiy),NA,Rayon,District,NA,KZ.AM.EG
+71.792310830023,52.8713997906116,24,KAZ.2.7_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Enbekshil`derskiy,Enbekshil'derskiy,NA,Rayon,District,NA,KZ.AM.EN
+73.099600784191,51.8505602388727,25,KAZ.2.8_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Ereymengauskiy,Ereymentauskiy,NA,Rayon,District,NA,KZ.AM.ER
+66.4654094022031,51.8572320936017,26,KAZ.2.9_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Esil`skiy,Esil'skiy,NA,Rayon,District,NA,KZ.AM.ES
+70.0773832043187,50.54457743719,27,KAZ.2.10_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Korgalzhynskiy,Korgalzhinskiy,NA,Rayon,District,NA,KZ.AM.KR
+68.8517883111912,52.3787408469297,28,KAZ.2.11_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Sandyktauskiy,NA,NA,Rayon,District,NA,KZ.AM.SA
+70.9813702258748,51.5458614772178,29,KAZ.2.12_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Shortandinskiy,NA,NA,Rayon,District,NA,KZ.AM.SD
+70.2721063752517,52.8925592918053,30,KAZ.2.13_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Shuchinskiy,Shchuchinskiy,NA,Rayon,District,NA,KZ.AM.SC
+71.2143828638792,51.0337585780049,31,KAZ.2.14_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Tselinogradskiy,NA,NA,Rayon,District,NA,KZ.AM.TS
+69.356569284699,53.1222346264874,32,KAZ.2.15_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Zerendinskiy,NA,NA,Rayon,District,NA,KZ.AM.ZE
+67.5661046632073,51.6401359851651,33,KAZ.2.16_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Zhaksynskiy,NA,NA,Rayon,District,NA,KZ.AM.ZS
+66.6343730040676,51.0005819653473,34,KAZ.2.17_1,KAZ,Kazakhstan,KAZ.2_1,Aqmola,NA,Zharkainskiy,Derzhavinskiy,NA,Rayon,District,NA,KZ.AM.ZR
+56.9230660588958,50.0074166890439,35,KAZ.3.1_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Alginskiy,NA,NA,Rayon,District,NA,KZ.AT.AL
+57.3081429769338,50.3552308047525,36,KAZ.3.2_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Aqtobe,NA,NA,Maslikhat,Assembly,NA,KZ.AT.AQ
+61.1656407632238,50.0502747812823,37,KAZ.3.3_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Aytekebiyskiy,Aytekebiyskiy (Komsomolskiy),NA,Rayon,District,NA,KZ.AT.AY
+56.4124070574584,47.0895686284677,38,KAZ.3.4_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Bayganinskiy,NA,NA,Rayon,District,NA,KZ.AT.BA
+62.0964090931055,48.4030151116311,39,KAZ.3.5_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Irgizskiy,NA,NA,Rayon,District,NA,KZ.AT.IR
+58.2261470215781,50.8040947457942,40,KAZ.3.6_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Kargalinskiy,NA,NA,Rayon,District,NA,KZ.AT.KA
+55.3113791565964,50.1608831823882,41,KAZ.3.7_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Khobdinskiy,NA,NA,Rayon,District,NA,KZ.AT.KB
+58.5324568166765,50.1450211347911,42,KAZ.3.8_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Khromtauskiy,NA,NA,Rayon,District,NA,KZ.AT.KT
+56.6361349523099,50.6564899189794,43,KAZ.3.9_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Martukskiy,NA,NA,Rayon,District,NA,KZ.AT.MA
+58.327627599777,48.830940284412,44,KAZ.3.10_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Mugalzharskiy,NA,NA,Rayon,District,NA,KZ.AT.MU
+59.3492929837864,47.1789137748104,45,KAZ.3.11_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Shalkarskiy,Shalkarskiy (Chelkarskiy),NA,Rayon,District,NA,KZ.AT.SH
+56.2571341316096,49.1258041520536,46,KAZ.3.12_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Temirskiy,NA,NA,Rayon,District,NA,KZ.AT.TE
+54.4148436830084,49.2279811682509,47,KAZ.3.13_1,KAZ,Kazakhstan,KAZ.3_1,Aqtöbe,NA,Uilskiy,NA,NA,Rayon,District,NA,KZ.AT.UI
+52.0709960021466,47.0301921298816,48,KAZ.4.1_1,KAZ,Kazakhstan,KAZ.4_1,Atyrau,NA,Atyrau,Atyrauskiy|Guriev,NA,Maslikhat,Assembly,NA,KZ.AR.AT
+51.4887326738518,48.1994711903322,49,KAZ.4.2_1,KAZ,Kazakhstan,KAZ.4_1,Atyrau,NA,Inderskiy,Indenrskiy,NA,Rayon,District,NA,KZ.AR.IN
+50.5089521419315,47.3817147312953,50,KAZ.4.3_1,KAZ,Kazakhstan,KAZ.4_1,Atyrau,NA,Isatayskiy,NA,NA,Rayon,District,NA,KZ.AR.IS
+49.2124085103891,47.2571357419191,51,KAZ.4.4_1,KAZ,Kazakhstan,KAZ.4_1,Atyrau,NA,Kurmangazinskiy,NA,NA,Rayon,District,NA,KZ.AR.KU
+53.7851549538619,48.2902164457563,52,KAZ.4.5_1,KAZ,Kazakhstan,KAZ.4_1,Atyrau,NA,Kzylkoginskiy,Kylkoginskiy,NA,Rayon,District,NA,KZ.AR.KZ
+53.07814034672,47.2905205032659,53,KAZ.4.6_1,KAZ,Kazakhstan,KAZ.4_1,Atyrau,NA,Makatskiy,NA,NA,Rayon,District,NA,KZ.AR.MK
+51.8283340001743,47.5909019462776,54,KAZ.4.7_1,KAZ,Kazakhstan,KAZ.4_1,Atyrau,NA,Makhambetskiy,NA,NA,Rayon,District,NA,KZ.AR.MB
+54.1103366021528,46.7706900945711,55,KAZ.4.8_1,KAZ,Kazakhstan,KAZ.4_1,Atyrau,NA,Zhylyoyskiy,Embinskiy,NA,Rayon,District,NA,KZ.AR.ZH
+79.505208732259,49.0819957610262,56,KAZ.5.1_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Abayskiy,NA,NA,Rayon,District,NA,KZ.EK.AB
+79.3615163057345,47.8334077552295,57,KAZ.5.2_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Ayagozskiy,NA,NA,Rayon,District,NA,KZ.EK.AY
+78.9908727731581,51.0629259055593,58,KAZ.5.3_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Beskaragayskiy,NA,NA,Rayon,District,NA,KZ.EK.BE
+81.0023584806963,50.7668645773327,59,KAZ.5.4_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Borodulikhinskiy,NA,NA,Rayon,District,NA,KZ.EK.BO
+82.9320801844343,50.4654332880651,60,KAZ.5.5_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Glubokovskiy,Ghlubokovskiy,NA,Rayon,District,NA,KZ.EK.GL
+85.6366579733509,49.3366422667842,61,KAZ.5.6_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Katon-Karagayskiy,Katon-Karagayski,NA,Rayon,District,NA,KZ.EK.KK
+82.7008417910206,48.8117869712523,62,KAZ.5.7_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Kokpektinskiy,NA,NA,Rayon,District,NA,KZ.EK.KO
+84.6504858936306,48.4063654859735,63,KAZ.5.8_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Kurchumskiy,NA,NA,Rayon,District,NA,KZ.EK.KU
+83.7548881766509,50.4140954185345,64,KAZ.5.9_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Leninogorsk,Leninnogorskiy,NA,Maslikhat,Assembly,NA,KZ.EK.LE
+78.1076582901694,49.7713562725891,65,KAZ.5.10_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Semipalatinskiy,NA,NA,Rayon,District,NA,NA
+82.196247294727,50.6138199643184,66,KAZ.5.11_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Shemonaikhinskiy,Shemonakhinskiy,NA,Rayon,District,NA,KZ.EK.SH
+82.8807922660548,47.7590488038051,67,KAZ.5.12_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Tarbagatayskiy,NA,NA,Rayon,District,NA,KZ.EK.TA
+82.3240101679785,49.7308490403556,68,KAZ.5.13_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Ulanskiy,NA,NA,Rayon,District,NA,KZ.EK.UL
+81.7540766822922,46.6073719170014,69,KAZ.5.14_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Urdzharskiy,NA,NA,Rayon,District,NA,KZ.EK.UR
+84.9812671004352,47.3778858776848,70,KAZ.5.15_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Zaysanskiy,NA,NA,Rayon,District,NA,KZ.EK.ZA
+81.3868927633676,49.2514180821538,71,KAZ.5.16_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Zharminskiy,NA,NA,Rayon,District,NA,KZ.EK.ZH
+83.9992641125446,49.8106421608338,72,KAZ.5.17_1,KAZ,Kazakhstan,KAZ.5_1,East Kazakhstan,NA,Zyryanovsk,Zyryanovskiy,NA,Maslikhat,Assembly,NA,KZ.EK.ZY
+51.3731317337585,43.4833577571655,73,KAZ.6.1_1,KAZ,Kazakhstan,KAZ.6_1,Mangghystau,NA,Aqtau,Aqtau (Shevchenko),NA,Maslikhat,Assembly,NA,KZ.MG.AQ
+54.7322108322063,45.4813929621487,74,KAZ.6.2_1,KAZ,Kazakhstan,KAZ.6_1,Mangghystau,NA,Beyneuskiy,NA,NA,Rayon,District,NA,KZ.MG.BE
+54.3099323075279,42.7907174371681,75,KAZ.6.3_1,KAZ,Kazakhstan,KAZ.6_1,Mangghystau,NA,Karakiyanskiy,NA,NA,Rayon,District,NA,KZ.MG.KA
+53.7504069430536,44.4195406592287,76,KAZ.6.4_1,KAZ,Kazakhstan,KAZ.6_1,Mangghystau,NA,Manghystauskiy,Mangistauskiy,NA,Rayon,District,NA,KZ.MG.MA
+50.6227168406221,44.5138854024898,77,KAZ.6.5_1,KAZ,Kazakhstan,KAZ.6_1,Mangghystau,NA,Tupkaraganskiy,NA,NA,Rayon,District,NA,KZ.MG.TU
+71.7841461536037,53.7816383798001,78,KAZ.7.1_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Akzharskiy,Akzharskiy (Leninskiy),NA,Rayon,District,NA,KZ.NK.AZ
+68.1696302213709,53.2060264610329,79,KAZ.7.2_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Ayyrtauskiy,Ayyrtauskiy (Volodarskiy),NA,Rayon,District,NA,KZ.NK.AY
+70.6859950628588,54.6413613984036,80,KAZ.7.3_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Bulaevskiy,NA,NA,Rayon,District,NA,KZ.NK.BU
+68.3469470461193,54.1139028564768,81,KAZ.7.4_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Esil`skiy,Esil'skiy,NA,Rayon,District,NA,KZ.AM.ES
+69.1648144331045,54.8853883752273,82,KAZ.7.5_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Kyzylzharskiy,Bishkul'skiy,NA,Rayon,District,NA,KZ.NK.KY
+68.2783307782083,54.7820677421226,83,KAZ.7.6_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Mamlyutskiy,NA,NA,Rayon,District,NA,KZ.NK.MA
+67.6267368994135,53.7884184327639,84,KAZ.7.7_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Shal Akyna,Sergeevskiy,NA,Rayon,District,NA,KZ.NK.SA
+69.5747076663894,54.4339907207713,85,KAZ.7.8_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Sovetskiy,NA,NA,Rayon,District,NA,NA
+69.9641616963463,53.8137120292016,86,KAZ.7.9_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Taiynshinskiy,Tayynshinskiy|Krasnoameyskiy,NA,Rayon,District,NA,KZ.NK.TA
+66.6109298902753,53.658574843492,87,KAZ.7.10_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Timiryazevskiy,NA,NA,Rayon,District,NA,KZ.NK.TI
+66.8471787808609,52.7630948515972,88,KAZ.7.11_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Tselinniy,Tselinnyy (Kuybyshevskiy),NA,Rayon,District,NA,KZ.NK.TS
+72.8897386823537,53.3436752368532,89,KAZ.7.12_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Ualikhanovskiy,NA,NA,Rayon,District,NA,KZ.NK.UA
+66.9765481397412,54.4318464485023,90,KAZ.7.13_1,KAZ,Kazakhstan,KAZ.7_1,North Kazakhstan,NA,Zhambylskiy,NA,NA,Rayon,District,NA,KZ.AA.ZH
+76.2758868403989,52.0777004844232,91,KAZ.8.1_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Aksuskiy,NA,NA,Rayon,District,NA,KZ.AA.AK
+75.2680445330184,52.7171121182165,92,KAZ.8.2_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Aktogayskiy,Aktogayskiy (Krasnokutskiy),NA,Rayon,District,NA,KZ.PA.AT
+75.1392076008688,50.8148440678401,93,KAZ.8.3_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Bayanaul`skiy,Bayanaul'skiy,NA,Rayon,District,NA,KZ.PA.BA
+75.0790039960144,51.7527695991371,94,KAZ.8.4_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Ekibastuz,Ekibastuzskiy,NA,Maslikhat,Assembly,NA,KZ.PA.EK
+74.5859903814542,53.3075372291787,95,KAZ.8.5_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Irtyshskiy,NA,NA,Rayon,District,NA,KZ.PA.IR
+76.2785361002131,53.2921427720973,96,KAZ.8.6_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Kachirskiy,NA,NA,Rayon,District,NA,KZ.PA.KA
+78.3415094434135,51.641492307936,97,KAZ.8.7_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Lebyazhinskiy,NA,NA,Rayon,District,NA,KZ.PA.LE
+77.2879431063562,50.9377390764492,98,KAZ.8.8_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Mayskiy,NA,NA,Rayon,District,NA,KZ.PA.MA
+77.224276686116,52.3944933868111,99,KAZ.8.9_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Pavlodarskiy,NA,NA,Rayon,District,NA,KZ.PA.PS
+78.257234992507,52.3349265691402,100,KAZ.8.10_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Sherbaktinskiy,Shcherbaktinskiy,NA,Rayon,District,NA,KZ.PA.SH
+77.532327595132,53.1452738922113,101,KAZ.8.11_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Uspenskiy,NA,NA,Rayon,District,NA,KZ.PA.US
+75.9934624849271,53.9040384005694,102,KAZ.8.12_1,KAZ,Kazakhstan,KAZ.8_1,Pavlodar,NA,Zhelezinskiy,NA,NA,Rayon,District,NA,KZ.PA.ZH
+72.5841357732986,49.4787480142019,103,KAZ.9.1_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,NA,Abayskiy,Abayskiy (Michurinskiy),NA,Rayon,District,NA,KZ.EK.AB
+75.9157482903699,47.4358344814549,104,KAZ.9.2_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,NA,Aktogayskiy,NA,NA,Rayon,District,NA,KZ.PA.AT
+73.7219829033058,50.0052094631228,105,KAZ.9.3_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,NA,Bukhar-Zhyrauskiy,Ul'yanovskiy,NA,Rayon,District,NA,KZ.QG.BZ
+75.5700026777862,49.5490529940762,106,KAZ.9.4_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,NA,Karkaralinskiy,NA,NA,Rayon,District,NA,KZ.QG.KK
+69.7243521062624,49.6651814171044,107,KAZ.9.5_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,NA,Nurinskiy,NA,NA,Rayon,District,NA,KZ.QG.NU
+73.2829990538128,50.5850563459798,108,KAZ.9.6_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,NA,Osakarovskiy,NA,NA,Rayon,District,NA,KZ.QG.OS
+73.2737451655871,47.6678607600813,109,KAZ.9.7_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,NA,Shetskiy,NA,NA,Rayon,District,NA,KZ.QG.ST
+66.9006466201319,47.8778679695404,110,KAZ.9.8_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,NA,Ulytauskiy,NA,NA,Rayon,District,NA,KZ.QG.UL
+70.5556186818635,47.6680365654195,111,KAZ.9.9_1,KAZ,Kazakhstan,KAZ.9_1,Qaraghandy,NA,Zhanaarkinskiy,NA,NA,Rayon,District,NA,KZ.QG.ZA
+64.5534275649958,53.0813034628591,112,KAZ.10.1_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Altynsarinskiy,NA,NA,Rayon,District,NA,KZ.QS.AL
+65.2978818689023,49.9139484342771,113,KAZ.10.2_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Amangel`dinskiy,Amangel'dinskiy,NA,Rayon,District,NA,KZ.QS.AM
+66.8122133590763,50.0831469683738,114,KAZ.10.3_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Arkalyk,Arqalyqskiy,NA,Maslikhat,Assembly,NA,KZ.QS.AR
+64.030785549047,52.2748966905279,115,KAZ.10.4_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Auliekol`skiy,Auliekol'skiy|Semiozemyy,NA,Rayon,District,NA,KZ.QS.AU
+61.5598323827388,52.6044118729006,116,KAZ.10.5_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Denisovskiy,Denisovskiy (Ordzhonikidzevskiy),NA,Rayon,District,NA,KZ.QS.DE
+63.6892755591099,49.5443211935987,117,KAZ.10.6_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Dzhangil`dinskiy,Dzhangil'dinskiy,NA,Rayon,District,NA,KZ.QS.DZ
+62.8547189282431,53.5872171895672,118,KAZ.10.7_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Fyodorovskiy,Fedorovskiy,NA,Rayon,District,NA,KZ.QS.FY
+62.2707878624391,51.56280544509,119,KAZ.10.8_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Kamystinskiy,Kamystinskiy (Kamyshninskiy),NA,Rayon,District,NA,KZ.QS.KA
+61.9793429081582,53.573870811373,120,KAZ.10.9_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Karabalykskiy,Karabalykskiy (Komsomol'skiy),NA,Rayon,District,NA,KZ.QS.KB
+65.38794174281,52.2365989523736,121,KAZ.10.10_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Karasuskiy,NA,NA,Rayon,District,NA,KZ.QS.KS
+64.1637105404543,53.9238711241572,122,KAZ.10.11_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Mendykarinskiy,Mendykrinskiy,NA,Rayon,District,NA,KZ.QS.ME
+64.1806910304888,51.258189175235,123,KAZ.10.12_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Naurzumskiy,NA,NA,Rayon,District,NA,KZ.QS.NA
+63.5589617083373,53.2599298601014,124,KAZ.10.13_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Qostanay,Qostanay (Kustanay),NA,Maslikhat,Assembly,NA,KZ.QS.QO
+65.6582600512066,53.4412622447676,125,KAZ.10.14_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Sarykol`skiy,Sarykol'skiy,NA,Rayon,District,NA,KZ.QS.SA
+62.8980232090194,52.5210160817431,126,KAZ.10.15_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Taranovskiy,NA,NA,Rayon,District,NA,KZ.QS.TA
+65.6488079512508,54.1444323955283,127,KAZ.10.16_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Uzunkol`skiy,Uzunkol'skiy,NA,Rayon,District,NA,KZ.QS.UZ
+60.8285411055828,51.9685060739046,128,KAZ.10.17_1,KAZ,Kazakhstan,KAZ.10_1,Qostanay,NA,Zhitikarinskiy,NA,NA,Rayon,District,NA,KZ.QS.ZH
+60.5340402776918,46.0620366123101,129,KAZ.11.1_1,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,NA,Aral`skiy,Aralskiy,NA,Rayon,District,NA,KZ.QO.AR
+63.6215073182254,45.24917465867,130,KAZ.11.2_1,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,NA,Karmakchinskiy,NA,NA,Rayon,District,NA,KZ.QO.KR
+62.1562355693883,45.3200636950599,131,KAZ.11.3_1,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,NA,Kazalinskiy,NA,NA,Rayon,District,NA,KZ.QO.KZ
+65.4958718966389,44.9709233520286,132,KAZ.11.4_1,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,NA,Qyzylorda,Qyzylorda (Kyzyl-Orda),NA,Maslikhat,Assembly,NA,KZ.QO.QY
+66.2051195420779,44.1093120544513,133,KAZ.11.5_1,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,NA,Shieliyskiy,Shieli,NA,Rayon,District,NA,NA
+65.7288260897419,45.0939689066643,134,KAZ.11.6_1,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,NA,Terenozekskiy,NA,NA,Rayon,District,NA,NA
+64.5784744541844,45.2314699551009,135,KAZ.11.7_1,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,NA,Zhalagashskiy,Zhalaganshskiy,NA,Rayon,District,NA,KZ.QO.ZL
+67.2680048669902,43.3965456774826,136,KAZ.11.8_1,KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,NA,Zhanakorganskiy,NA,NA,Rayon,District,NA,KZ.QO.ZN
+68.6046434918518,42.336168294018,137,KAZ.12.1_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Arysskiy,NA,NA,Rayon,District,NA,KZ.SK.AR
+69.5238325986109,43.0671509955502,138,KAZ.12.2_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Baydibekskiy,NA,NA,Rayon,District,NA,KZ.SK.BA
+67.3175388325577,41.5814553224174,139,KAZ.12.3_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Chardarinskiy,NA,NA,Rayon,District,NA,KZ.SK.CH
+69.7694156472558,41.8732390083284,140,KAZ.12.4_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Kazygurtskiy,Kazygurtskiy (Leninskiy),NA,Rayon,District,NA,KZ.SK.KA
+68.2166763835113,40.8411228940127,141,KAZ.12.5_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Maktaaral`skiy,Maktaaralskiy,NA,Rayon,District,NA,KZ.SK.MA
+69.2326653706001,42.4833101425622,142,KAZ.12.6_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Ordabasynskiy,NA,NA,Rayon,District,NA,KZ.SK.OR
+67.5244346415522,42.4903687433179,143,KAZ.12.7_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Otrarskiy,NA,NA,Rayon,District,NA,KZ.SK.OT
+68.6364765310967,41.4335360995834,144,KAZ.12.8_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Saryagashskiy,NA,NA,Rayon,District,NA,KZ.SK.SG
+69.9203382206459,42.3175437052149,145,KAZ.12.9_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Sayramskiy,Say,NA,Rayon,District,NA,KZ.SK.SR
+69.5643841845525,42.3528959186646,146,KAZ.12.10_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Shymkent,Shymkent (Chimkent),NA,Maslikhat,Assembly,NA,KZ.SK.SH
+68.7040334546155,44.6887858009829,147,KAZ.12.11_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Suzakskiy,NA,NA,Rayon,District,NA,KZ.SK.SU
+70.2174885728957,42.1758027151227,148,KAZ.12.12_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Tolebiyskiy,Tolebisyskiy,NA,Rayon,District,NA,KZ.SK.TO
+68.4325044428516,43.4245854793062,149,KAZ.12.13_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Turkestan,Turkistanskiy,NA,Maslikhat,Assembly,NA,KZ.SK.TU
+70.2186301983092,42.5729010931638,150,KAZ.12.14_1,KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,NA,Tyul`kubaskiy,Tyu'lkubasskiy,NA,Rayon,District,NA,KZ.SK.TY
+51.732554012559,49.5948724140978,151,KAZ.13.1_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Akzhaikskiy,Akzhaikskiy (Chapaevskiy),NA,Rayon,District,NA,KZ.WK.AK
+52.9815959819657,51.1008380489978,152,KAZ.13.2_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Burlinskiy,NA,NA,Rayon,District,NA,KZ.WK.BU
+53.8893110994118,50.7266389759807,153,KAZ.13.3_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Chingirlauskiy,Chingirlausky,NA,Rayon,District,NA,KZ.WK.CH
+50.1518225966894,48.9394935361297,154,KAZ.13.4_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Dzhangalinskiy,NA,NA,Rayon,District,NA,KZ.WK.DG
+47.3260980759973,49.7492830400942,155,KAZ.13.5_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Dzhanybekskiy,NA,NA,Rayon,District,NA,KZ.WK.DB
+53.5919375662828,49.6619684849619,156,KAZ.13.6_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Karatobinskiy,NA,NA,Rayon,District,NA,KZ.WK.KR
+49.5852120205322,49.8652753022681,157,KAZ.13.7_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Kaztalovskiy,Kaztalobskiy,NA,Rayon,District,NA,KZ.WK.KZ
+52.8002550477849,50.2524451447923,158,KAZ.13.8_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Syrymskiy,NA,NA,Rayon,District,NA,KZ.WK.SY
+49.7617527932304,50.7762058916589,159,KAZ.13.9_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Taskalinskiy,NA,NA,Rayon,District,NA,KZ.WK.TA
+51.5851979678439,50.7278330864348,160,KAZ.13.10_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Terektinskiy,NA,NA,Rayon,District,NA,KZ.WK.TE
+47.867305636931,48.6639733947925,161,KAZ.13.11_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Urdinskiy,NA,NA,Rayon,District,NA,KZ.WK.UD
+50.9430148753974,51.1937723533917,162,KAZ.13.12_1,KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,NA,Zelenovskiy,NA,NA,Rayon,District,NA,KZ.WK.ZE
+71.411766823715,43.4015967992345,163,KAZ.14.1_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Bayzakskiy,Sverdlovskiy,NA,Rayon,District,NA,KZ.ZM.BA
+74.8452515752686,43.5481347394701,164,KAZ.14.2_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Kordayskiy,NA,NA,Rayon,District,NA,KZ.ZM.KO
+72.5290508866341,43.2523296864565,165,KAZ.14.3_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Lugovskoy,NA,NA,Rayon,District,NA,KZ.ZM.LU
+73.3746640313259,43.1879088118882,166,KAZ.14.4_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Merkenskiy,NA,NA,Rayon,District,NA,KZ.ZM.ME
+72.8275006696816,44.8703831717706,167,KAZ.14.5_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Moyynkumskiy,NA,NA,Rayon,District,NA,KZ.ZM.MO
+70.3658098385192,44.5897172742697,168,KAZ.14.6_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Sarysuskiy,NA,NA,Rayon,District,NA,KZ.ZM.SA
+74.2714261637761,43.8603027603374,169,KAZ.14.7_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Shuskiy,NA,NA,Rayon,District,NA,KZ.ZM.SH
+71.0890149615409,43.6536424086766,170,KAZ.14.8_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Talasskiy,NA,NA,Rayon,District,NA,KZ.ZM.TL
+71.7547985630885,43.5626410945887,171,KAZ.14.9_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Zhamb.,NA,NA,Rayon,District,NA,NA
+71.1123310974281,43.0420892468062,172,KAZ.14.10_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Zhambylskiy,NA,NA,Rayon,District,NA,KZ.AA.ZH
+71.7821302587708,43.8028239172208,173,KAZ.14.11_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Zhualy,NA,NA,Rayon,District,NA,NA
+70.6411453620794,42.7303123748473,174,KAZ.14.12_1,KAZ,Kazakhstan,KAZ.14_1,Zhambyl,NA,Zhualynskiy,NA,NA,Rayon,District,NA,KZ.ZM.ZL
