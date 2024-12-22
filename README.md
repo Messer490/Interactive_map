@@ -30,4 +30,5 @@ Add export functionality for data reports.
 For any questions or suggestions, feel free to reach out:
 
 GitHub: Messer490
-Email: your.email@example.com
+Email: aralbayev.bek06@gmail.com
+
